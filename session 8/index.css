@@ -1,0 +1,11 @@
+input {
+    width: 50px;
+    text-align: center;
+}
+div {
+    display: inline-flex;
+    margin-top: 50%;
+    margin-bottom: 50%;
+    margin-left: 50%;
+    margin-right: 50%;
+}
